@@ -17,3 +17,6 @@ This Bash script organizes and displays directory structures and files.
 To run the script, use:
 ```bash
 ./file_organizer.sh
+
+![Screenshot 2024-10-25 8 40 09 AM](https://github.com/user-attachments/assets/45d45bcf-4518-4488-aa4b-6650d0e80759)
+
