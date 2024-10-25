@@ -19,3 +19,14 @@ To run the script, use:
 ./file_organizer.sh
 
 
+## Example
+
+===========================================
+           File Organizer Menu            
+===========================================
+1. List Directories
+2. List Files by Type
+3. List All Files and Directories in Tree Format
+4. Exit
+
+
